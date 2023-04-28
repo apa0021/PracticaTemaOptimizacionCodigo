@@ -1,2 +1,2 @@
 # PracticaTemaOptimizacionCodigo
-[![Python application](https://github.com/apa0021/PracticaTemaOptimizacionCodigo/actions/workflows/python-app.yml/badge.svg)](https://github.com/apa0021/PracticaTemaOptimizacionCodigo/actions/workflows/python-app.yml)
+[![Python application](https://github.com/apa0021/PracticaTemaOptimizacionCodigo/actions/workflows/python-app.yml/badge.svg)](https://github.com/apa0021/PracticaTemaOptimizacionCodigo/actions/workflows/python-app.yml)[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=apa0021_PracticaTemaOptimizacionCodigo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=apa0021_PracticaTemaOptimizacionCodigo)
