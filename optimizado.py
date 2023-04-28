@@ -11,4 +11,5 @@ class optimizadoclass:
         suma=0
         for n in self.array:
             suma+=n
-            print(suma/len(self.array))
+            m=suma/len(self.array)
+        return m
